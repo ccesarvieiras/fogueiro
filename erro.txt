@@ -1,0 +1,8 @@
+invalid command name "2611208808064update"
+    while executing
+"2611208808064update"
+    ("after" script)
+invalid command name "2611176620160check_dpi_scaling"
+    while executing
+"2611176620160check_dpi_scaling"
+    ("after" script)
